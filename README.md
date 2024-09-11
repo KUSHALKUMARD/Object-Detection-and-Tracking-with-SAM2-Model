@@ -2,6 +2,12 @@
 
 This project demonstrates object detection in an image and tracking the same object across frames using the SAM2 model. SAM2 is designed for automatic mask generation and object tracking in videos.
 
+
+
+![Final_Output](Output_Visual/Final_output.png)
+
+
+
 ## Libraries Used
 
 The following libraries are crucial for the functioning of the code:
